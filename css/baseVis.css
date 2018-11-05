@@ -1,0 +1,76 @@
+.ivs-baseVis-background {
+	fill-opacity: 0;
+    stroke-opacity: 0;
+	stroke: steelblue;
+	stroke-width: 2;
+    pointer-events: all;
+}
+
+.ivs-baseVis-button {
+    fill: none;
+    stroke: steelblue;
+    stroke-width: 2;
+    pointer-events: all;
+}
+
+.ivs-baseVis-button text {
+    fill: steelblue;
+    stroke: none;
+    font-family: Consolas;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.ivs-baseVis-cycleButton rect {
+	fill: gold;
+	stroke: none;
+}
+
+.ivs-baseVis-cycleButton text {
+	fill: green;
+	text-anchor: end;
+}
+
+.brush .extent {
+    fill-opacity: .1;
+    stroke: #fff;
+    shape-rendering: crispEdges;
+}
+
+.selected circle {
+    stroke: red;
+}
+
+.selected rect {
+    stroke: red;
+}
+
+.sm-capture-dialong {
+    font-family: Tahoma;
+    font-size: 12px;
+}
+
+.sm-capture-dialong label {
+    display: block;
+    text-align: left;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.sm-capture-dialong input {
+    display: block;
+    font-family: Tahoma;
+    font-size: 12px;
+    width: 96%;
+    height: 16px;
+    padding: 5px;
+    margin: 0;  
+}
+
+.sm-capture-dialong textarea {
+    display: block;
+    font-size: 12px;
+    width: 96%;
+    height: 100px;
+    padding: 5px;
+}

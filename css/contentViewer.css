@@ -1,0 +1,31 @@
+.ivs-contentViewer-toolbar {
+    width: 100%;
+    float: right;
+    clear: both;
+}
+
+.ivs-contentViewer-searchBox {
+    width: 20%;
+    float: right;
+    clear: left;
+}
+
+.ivs-contentViewer-noteBox {
+    width: 75%;
+    height: 100px;
+    float: left;
+    resize: none;
+}
+
+.ivs-contentViewer-content {
+    clear: right;
+    overflow: auto;
+    max-height: 400px;
+    padding-top: 5px;
+    font-size: 1em;
+}
+
+.ivs-contentViewer-highlight {
+    color: white;
+    background-color: #3095FC;  
+}

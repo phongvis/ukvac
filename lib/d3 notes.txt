@@ -1,0 +1,2 @@
+d3's brush is modified so that it triggers only when holding SHIFT. Also, no 'crosshair' cursor is used.
+Search for "INVISQUE MODIFICATION"

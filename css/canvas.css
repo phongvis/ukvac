@@ -1,0 +1,15 @@
+.ivs-memory-bar {
+	fill: #EEEEEE;
+}
+
+.ivs-memory-head {
+    text-align: center;
+    padding-left: 3px;
+    margin: 0;
+    width: 100%	;
+    height: 100%;
+}
+
+.ivs-memory-head :hover {
+	cursor: pointer;
+}

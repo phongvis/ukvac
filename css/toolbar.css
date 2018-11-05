@@ -1,0 +1,22 @@
+.ivs-toolbar-vistype {
+	stroke-width: 2;
+}
+
+.ivs-toolbar .ivs-baseVis-background {
+	fill-opacity: 1;
+	fill: #EEEEEE;
+}
+
+.ivs-toolbar-comingsoon {
+	stroke: blue;
+	fill: blue;
+	font-family: Georgia;
+	font-size: 14px;
+	text-anchor: middle;
+}
+
+.ivs-toolbar-description {
+	stroke: none;
+	fill: red;
+	text-anchor: middle;
+}

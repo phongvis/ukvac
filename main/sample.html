@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+        <title>An example of using a visualisation</title>
+        
+        <link href="../css/core.css" type="text/css" rel="stylesheet" />
+        <link href="../css/sample.css" type="text/css" rel="stylesheet" />
+
+        <script type="text/javascript" src="../lib/d3.js"></script>
+        <script type="text/javascript" src="../lib/jquery-2.0.2.min.js"></script>
+        
+        <script type="text/javascript" src="../js/core.js"></script>
+        <script type="text/javascript" src="../js/helpers/d3Helpers.js"></script>
+        <script type="text/javascript" src="../js/vises/baseVis.js"></script>
+        <script type="text/javascript" src="../js/vises/sample.js"></script>
+    </head>
+    
+    <body oncontextmenu="return false;">
+        <svg width="100%" height="97%" style="background-color:#EEEEEE">
+            <g transform="translate(100, 100)">
+            </g>
+        </svg>
+    </body>
+    
+    <script>
+        $(function() {
+            var vis = ivs.vises.sample().width(800).height(600)
+                .on("itemClicked", function(d) {
+                    console.log("Clicked at " + d.id);
+                });
+                
+            var data = [];
+            for (var i = 0; i < 5; i++) {
+                data.push( {x: Math.random(), y: Math.random(), size: Math.random() * 30, id: i });
+            }
+                
+            var svg = d3.select("g");
+            svg.datum(data).call(vis);
+            
+            var count = 5;
+            setInterval(function() {
+                data.shift();
+                data.push( {x: Math.random(), y: Math.random(), size: Math.random() * 30, id: count++ });
+                svg.datum(data).call(vis);
+            }, 1000);
+        }());
+    </script>
+</html>

@@ -1,0 +1,26 @@
+.ivs-scatterPlot .axis {
+	font-size: 0.9em;
+}
+
+.ivs-scatterPlot .axis path,
+.ivs-scatterPlot .axis line {
+  	fill: none;
+  	stroke: black;
+  	shape-rendering: crispEdges;
+}
+
+.ivs-scatterPlot-dot circle {
+	fill: steelblue;
+	fill-opacity: 0.7;
+	stroke: steelblue;
+	stroke-width: 1.5;
+}
+
+.ivs-scatterPlot-dot text {
+	text-anchor: middle;
+	fill: black;
+}
+
+.selected circle {
+    stroke: red;
+}

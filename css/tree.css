@@ -1,0 +1,19 @@
+.ivs-tree .node circle {
+  	fill: #fff;
+  	stroke: steelblue;
+  	stroke-width: 1.5px;
+}
+
+.ivs-tree .link {
+  	fill: none;
+  	stroke: #ccc;
+  	stroke-width: 1.5px;
+}
+
+.ivs-tree .selected circle {
+	stroke: red;
+}
+
+.ivs-tree .brushed circle {
+	stroke: orange;
+}

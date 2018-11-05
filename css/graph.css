@@ -1,0 +1,15 @@
+.ivs-graph-node {
+  	stroke: steelblue;
+  	stroke-width: 1.5px;
+}
+
+.ivs-graph-link {
+  	stroke: #999;
+  	stroke-opacity: .6;
+}
+
+.ivs-graph-node text {
+	text-anchor: middle;
+	fill: black;
+	stroke: none;
+}

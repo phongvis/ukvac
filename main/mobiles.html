@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+        <title>UKVAC2 Demo</title>
+        
+        <link href="../css/cupertino/jquery-ui.min.css" type="text/css" rel="stylesheet" />
+
+        <script type="text/javascript" src="../lib/d3.js"></script>
+        <script type="text/javascript" src="../lib/jquery-2.0.2.min.js"></script>
+        <script type="text/javascript" src="../lib/jquery-ui.min.js"></script>
+        
+        <script type="text/javascript" src="mobiles.js"></script>
+
+        <style>
+            .node {
+              stroke: blue;
+            }
+
+            .link {
+                stroke: #999;
+                stroke-width: 1;
+            }
+
+            table,th,td {
+                border:1px solid black;
+                padding:2px;
+                text-align:center;
+            }
+            table {
+                border-collapse:collapse;
+                font-family: Verdana;
+                font-size:0.8em;
+            }
+        </style>
+    </head>
+    
+    <body oncontextmenu="return false;">
+        <svg width="1600px" height="800px" style="float:left">
+        </svg>
+        <!-- <table>
+            <thead>
+                <th>Source</th>
+                <th>Target</th>
+                <th>Number connections</th>
+                <th>Total time (min)</th>
+                <th>Avg. time (min)</th>
+            </thead>            
+        </table> -->
+    </body>
+</html>

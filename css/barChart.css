@@ -1,0 +1,14 @@
+.ivs-barChart .axis {
+	font-size: 0.9em;
+}
+
+.ivs-barChart .axis path,
+.ivs-barChart .axis line {
+  	fill: none;
+  	stroke: black;
+  	shape-rendering: crispEdges;
+}
+
+.ivs-barChart-bar {
+	fill: steelblue;
+}

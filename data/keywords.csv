@@ -1,0 +1,101 @@
+name,pubs,cites,parent,grandparent
+accessibility,62,160,keyword 1.1,keyword 1
+affective computing,36,252,keyword 1.1,keyword 1
+animation,37,166,keyword 1.1,keyword 1
+annotation,37,513,keyword 1.1,keyword 1
+assistive technology,42,165,keyword 1.2,keyword 1
+attention,41,434,keyword 1.2,keyword 1
+augmented reality,124,2281,keyword 1.2,keyword 1
+awareness,92,1669,keyword 1.2,keyword 1
+children,162,1554,keyword 1.3,keyword 1
+collaboration,121,1456,keyword 1.3,keyword 1
+communication,68,450,keyword 1.3,keyword 1
+community,34,205,keyword 1.3,keyword 1
+computer mediated communication,34,436,keyword 1.4,keyword 1
+computer vision,34,357,keyword 1.4,keyword 1
+computer-mediated communication,86,601,keyword 1.4,keyword 1
+context,33,306,keyword 1.4,keyword 1
+cscw,163,2754,keyword 1.5,keyword 1
+design,249,1391,keyword 1.5,keyword 1
+design process,44,276,keyword 1.5,keyword 1
+direct manipulation,47,356,keyword 1.5,keyword 1
+education,99,713,keyword 2.1,keyword 2
+email,40,470,keyword 2.1,keyword 2
+emotion,46,207,keyword 2.1,keyword 2
+end-user programming,43,408,keyword 2.1,keyword 2
+entertainment,44,106,keyword 2.2,keyword 2
+ethnography,119,1633,keyword 2.2,keyword 2
+evaluation,142,1160,keyword 2.2,keyword 2
+eye tracking,71,767,keyword 2.2,keyword 2
+field study,46,399,keyword 2.3,keyword 2
+fitts' law,66,1409,keyword 2.3,keyword 2
+games,49,325,keyword 2.3,keyword 2
+gestures,53,688,keyword 2.3,keyword 2
+groupware,40,308,keyword 2.4,keyword 2
+haptics,35,270,keyword 2.4,keyword 2
+hci,77,111,keyword 2.4,keyword 2
+home,36,575,keyword 2.4,keyword 2
+human factors,40,106,keyword 2.5,keyword 2
+human-computer interaction,67,258,keyword 2.5,keyword 2
+information retrieval,45,668,keyword 2.5,keyword 2
+information visualization,132,1349,keyword 2.5,keyword 2
+input devices,60,1137,keyword 3.1,keyword 3
+instant messaging,37,358,keyword 3.1,keyword 3
+interaction,66,463,keyword 3.1,keyword 3
+interaction design,243,1231,keyword 3.1,keyword 3
+interaction techniques,60,1087,keyword 3.2,keyword 3
+interface design,66,386,keyword 3.2,keyword 3
+internet,39,196,keyword 3.2,keyword 3
+learning,56,485,keyword 3.2,keyword 3
+methodology,39,262,keyword 3.3,keyword 3
+mobile,65,314,keyword 3.3,keyword 3
+mobile computing,83,891,keyword 3.3,keyword 3
+mobile devices,75,559,keyword 3.3,keyword 3
+mobile phone,47,351,keyword 3.4,keyword 3
+mobile phones,56,604,keyword 3.4,keyword 3
+multimedia,67,565,keyword 3.4,keyword 3
+multimodal interaction,36,353,keyword 3.4,keyword 3
+navigation,99,773,keyword 3.5,keyword 3
+online communities,39,236,keyword 3.5,keyword 3
+participatory design,90,708,keyword 3.5,keyword 3
+personal information management,39,534,keyword 3.5,keyword 3
+persuasive technology,38,149,keyword 4.1,keyword 4
+pointing,34,508,keyword 4.1,keyword 4
+privacy,103,835,keyword 4.1,keyword 4
+product design,33,203,keyword 4.1,keyword 4
+prototyping,59,334,keyword 4.2,keyword 4
+security,45,201,keyword 4.2,keyword 4
+social computing,71,393,keyword 4.2,keyword 4
+social interaction,35,288,keyword 4.2,keyword 4
+social media,35,61,keyword 4.3,keyword 4
+social networks,47,285,keyword 4.3,keyword 4
+speech recognition,43,213,keyword 4.3,keyword 4
+sustainability,67,249,keyword 4.3,keyword 4
+tangible interface,41,792,keyword 4.4,keyword 4
+tangible interfaces,42,441,keyword 4.4,keyword 4
+tangible user interface,41,1097,keyword 4.4,keyword 4
+tangible user interfaces,38,320,keyword 4.4,keyword 4
+task analysis,41,112,keyword 4.5,keyword 4
+text entry,51,481,keyword 4.5,keyword 4
+trust,56,589,keyword 4.5,keyword 4
+ubiquitous computing,195,3505,keyword 4.5,keyword 4
+usability,235,1048,keyword 5.1,keyword 5
+usability engineering,41,187,keyword 5.1,keyword 5
+usability evaluation,47,134,keyword 5.1,keyword 5
+usability testing,87,370,keyword 5.1,keyword 5
+user experience,136,349,keyword 5.2,keyword 5
+user interface,110,658,keyword 5.2,keyword 5
+user interface design,103,681,keyword 5.2,keyword 5
+user interfaces,61,722,keyword 5.2,keyword 5
+user research,35,91,keyword 5.3,keyword 5
+user studies,75,551,keyword 5.3,keyword 5
+user study,73,779,keyword 5.3,keyword 5
+user-centered design,135,418,keyword 5.3,keyword 5
+video,51,591,keyword 5.4,keyword 5
+virtual reality,80,742,keyword 5.4,keyword 5
+visualization,159,1613,keyword 5.4,keyword 5
+wearable computing,56,309,keyword 5.4,keyword 5
+web,33,388,keyword 5.5,keyword 5
+web design,33,289,keyword 5.5,keyword 5
+world wide web,85,1505,keyword 5.5,keyword 5
+www,45,443,keyword 5.5,keyword 5

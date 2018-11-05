@@ -1,0 +1,19 @@
+.ivs-treemap .ivs-baseVis-background {
+	fill-opacity: 1;
+	fill: white;
+}
+
+.ivs-treemap-cycleButton rect {
+	fill: gold;
+	stroke: none;
+}
+
+.ivs-treemap-cycleButton text {
+	fill: green;
+	text-anchor: middle;
+}
+
+.ivs-treemap-fo {
+	pointer-events: none;
+	text-align: center;
+}

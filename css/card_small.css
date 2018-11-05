@@ -1,0 +1,144 @@
+.ivs-card-svg-group-title {
+    fill: #666666;
+    font-family: Georgia;
+    font-size: 3em;
+    cursor:default;
+}
+
+.ivs-card-svg-group-results-info {
+    fill: #666666;
+}
+
+.ivs-card-svg-group-button {
+    fill: #4794BF;
+}
+
+.ivs-card-svg-group-line {
+    stroke: white;
+    stroke-width: 2;
+}
+
+.ivs-card-svg-feedback-button {
+    fill: rgba(255, 165, 0, 0.8);
+}
+
+.ivs-card-svg-feedback-line {
+    stroke: white;
+    stroke-width: 4;
+}
+
+.ivs-card-item {
+    margin-right: 5px;
+    box-shadow: 3px 3px 5px #888;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 90px 40px;
+    border-bottom-right-radius: 90px 40px;
+}
+
+.ivs-card-item div {
+    overflow: hidden;
+}
+
+.ivs-card-item-header {
+    margin-right: -1px; /* Bad code to fix 1px problem */
+    padding: 0.4em 0.4em 0.1em 0.4em;
+    background-color: #1979AF;
+    height: 1.2em;
+    color: white;
+    font-family: Helvetica;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.ivs-card-item-header .selected {
+    background-color: red;
+}
+
+.ivs-card-item-header .brushed {
+    background-color: green;
+}
+
+.ivs-card-item-header span {
+    font-size: 1.2em;
+    font-family: Helvetica;
+    float: right;
+    padding: 0 0 0.5em 0;
+    cursor: pointer;
+}
+
+.ivs-card-item-header a {
+    text-decoration: inherit;    
+    float: right;
+    padding: 0 1em 0.5em 0;
+    color: white;
+}
+ 
+.ivs-card-item-title {
+    padding: 0.1em 0.2em 0.4em 0.3em;
+    background-color: #BFEFFC;
+    /*height: 3em;*/ /*Three lines of text*/
+    color: #1C7A9E;
+    font-family: Helvetica;
+    font-size: 1.1em;
+}
+
+.read {
+    color: #660099;
+}
+
+.ivs-card-item-title a { /*TODO: text-decoration and color don't work*/
+    cursor: pointer;
+    /*text-decoration: underline;
+    color: green;*/
+}
+
+.ivs-card-item-subtitle {
+    padding: 0.4em 0.2em 0 0.3em;
+    background-color: #BFEFFC;
+    color: #666666;
+    font-family: Helvetica;
+}
+
+.ivs-card-item-category {
+    padding: 0.5em 0 0 0;
+    background-color: #BFEFFC;
+    /*height: 2.3em;*/
+}
+
+.ivs-card-item-category-name {
+    padding: 0 0.3em 0 0.3em;
+    /*height: 1.1em;*/
+    color: #666666;
+    font-family: Helvetica;
+}
+
+.ivs-card-item-category-values {
+    padding: 0 0.3em 0.3em 1em;
+    max-height: 3.3em; /* Three line of text */
+    color: #666666;
+    font-size: 0.8em;
+}
+
+.ivs-card-item-content {
+    padding: 0.2em 0.3em 0.3em 0.3em;
+    background-color: #BFEFFC;
+    height: 11em;
+    color: black;
+}
+
+.ivs-card-item-notes {
+    padding: 1em 0.3em 0 0.3em;
+    background-color: #BFEFFC;
+    color: #660099;
+    font-size: 0.9em;
+}
+
+.ivs-card-item-bottom-curve {
+    padding: 0;
+    background-color: #BFEFFC;
+    height: 40px;
+    border-bottom-left-radius: 90px 40px;
+    border-bottom-right-radius: 90px 40px;
+    text-align: center;
+}

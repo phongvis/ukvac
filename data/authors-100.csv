@@ -1,0 +1,99 @@
+name,pubs,cites,parent,grandparent
+Aaron Marcus,18,31,group 1.1,group 1
+Abigail Sellen,15,577,group 1.1,group 1
+Allan MacLean,12,316,group 1.1,group 1
+Allison Druin,26,670,group 1.1,group 1
+Allison Woodruff,13,240,group 1.2,group 1
+Amy Bruckman,10,25,group 1.2,group 1
+Andreas Paepcke,10,284,group 1.2,group 1
+Andrew Sears,10,18,group 1.2,group 1
+Anind K. Dey,12,479,group 1.3,group 1
+Anoop Gupta,14,207,group 1.3,group 1
+Austin Henderson,13,121,group 1.3,group 1
+Batya Friedman,22,143,group 1.3,group 1
+Ben Shneiderman,28,480,group 1.4,group 1
+Benjamin B. Bederson,17,609,group 1.4,group 1
+Bonnie A. Nardi,12,92,group 1.4,group 1
+Bonnie E. John,39,372,group 1.4,group 1
+Brad A. Myers,53,738,group 1.5,group 1
+Brian P. Bailey,10,164,group 1.5,group 1
+Carl Gutwin,17,341,group 1.5,group 1
+Carolyn Snyder,12,11,group 1.5,group 1
+Catherine Plaisant,18,362,group 2.1,group 2
+Chris Greenhalgh,10,284,group 2.1,group 2
+Chris Quintana,10,70,group 2.1,group 2
+Chris Schmandt,12,186,group 2.1,group 2
+Clifford Nass,21,239,group 2.2,group 2
+Colin Ware,13,174,group 2.2,group 2
+Dan R. Olsen,11,98,group 2.2,group 2
+David E. Kieras,9,86,group 2.2,group 2
+Dennis Wixon,14,70,group 2.3,group 2
+Desney S. Tan,10,235,group 2.3,group 2
+Diane J. Schiano,11,83,group 2.3,group 2
+Ed H. Chi,10,305,group 2.3,group 2
+Elizabeth D. Mynatt,26,656,group 2.4,group 2
+Elliot Soloway,10,42,group 2.4,group 2
+Eric A. Bier,10,143,group 2.4,group 2
+Gary M. Olson,12,160,group 2.4,group 2
+George W. Furnas,15,276,group 2.5,group 2
+Gregory D. Abowd,18,464,group 2.5,group 2
+Henry Lieberman,14,179,group 2.5,group 2
+Hiroshi Ishii,37,1978,group 2.5,group 2
+I. Scott MacKenzie,25,720,group 3.1,group 3
+James A. Landay,32,805,group 3.1,group 3
+James D. Foley,16,159,group 3.1,group 3
+Jean Scholtz,11,43,group 3.2,group 3
+Jennifer Lai,10,113,group 3.2,group 3
+Jennifer Mankoff,15,309,group 3.2,group 3
+Jock D. Mackinlay,15,822,group 3.2,group 3
+Jodi Forlizzi,10,173,group 3.3,group 3
+John Karat,17,120,group 3.3,group 3
+John M. Carroll,21,131,group 3.3,group 3
+Jonathan Grudin,30,343,group 3.3,group 3
+Joseph A. Konstan,10,153,group 3.4,group 3
+Judith Ramey,11,2,group 3.4,group 3
+Jun Rekimoto,17,526,group 3.4,group 3
+Karen Holtzblatt,13,30,group 3.4,group 3
+Ken Hinckley,15,428,group 3.5,group 3
+Kori M. Inkpen,11,130,group 3.5,group 3
+Lars Erik Holmquist,12,69,group 3.5,group 3
+Loren Terveen,15,179,group 3.5,group 3
+Manfred Tscheligi,14,74,group 4.1,group 4
+Mary Beth Rosson,27,241,group 4.1,group 4
+Mary Czerwinski,26,455,group 4.1,group 4
+Michael D. Byrne,10,108,group 4.1,group 4
+Nathan Bos,9,121,group 4.2,group 4
+Patrick Baudisch,20,516,group 4.2,group 4
+Paul Dourish,12,687,group 4.2,group 4
+Peter Pirolli,19,958,group 4.2,group 4
+Peter Tarasewich,9,31,group 4.3,group 4
+Phoebe Sengers,10,155,group 4.3,group 4
+Ramana Rao,10,586,group 4.3,group 4
+Randy Pausch,19,446,group 4.3,group 4
+Ravin Balakrishnan,28,664,group 4.4,group 4
+Robert J. K. Jacob,20,259,group 4.4,group 4
+Roel Vertegaal,22,303,group 4.4,group 4
+Rolf Molich,12,233,group 4.5,group 4
+Saul Greenberg,19,395,group 4.5,group 4
+Scott R. Klemmer,12,174,group 4.5,group 4
+Shumin Zhai,12,330,group 4.5,group 4
+Stephanie Rosenbaum,23,54,group 5.1,group 5
+Stephen A. Brewster,12,101,group 5.1,group 5
+Stephen Brewster,14,271,group 5.1,group 5
+Steve Benford,21,774,group 5.1,group 5
+Steve Whittaker,18,449,group 5.2,group 5
+Steven F. Roth,10,148,group 5.2,group 5
+Stuart K. Card,31,1478,group 5.2,group 5
+Suresh K. Bhavnani,9,68,group 5.2,group 5
+Susan R. Fussell,13,108,group 5.3,group 5
+Ted Selker,15,122,group 5.3,group 5
+Terry Winograd,11,234,group 5.3,group 5
+Thomas Erickson,11,236,group 5.3,group 5
+Tovi Grossman,10,197,group 5.4,group 5
+Victoria Bellotti,11,358,group 5.4,group 5
+W. Keith Edwards,12,328,group 5.4,group 5
+Wayne D. Gray,12,53,group 5.4,group 5
+Wendy A. Kellogg,15,263,group 5.5,group 5
+Wendy E. Mackay,14,151,group 5.5,group 5
+William Buxton,21,468,group 5.5,group 5
+Yves Guiard,10,180,group 5.5,group 5
